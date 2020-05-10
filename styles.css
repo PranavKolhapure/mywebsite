@@ -1,0 +1,145 @@
+.la{
+  color: white;
+}
+
+#title{
+  background-color: #c3edea;
+  height: 700px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+font-weight: bold;
+
+}
+
+@media (max-width:1028px) {
+
+
+  #title{
+    text-align: center;
+    height: 1200px;
+  }
+
+  .image-ti{
+    position: static;
+    transform: rotate();
+  padding-top: 25%;
+  }
+
+}
+
+
+.container-fluid{
+padding-top:  10% ;
+padding-left: 15%;
+
+
+}
+
+.dawnload-btn{
+  margin: 3% 5% 3% 0;
+}
+.image-ti{
+  width: 50%;
+  transform: rotate(25deg);
+  position: relative;
+  bottom:  25%;
+}
+
+
+#features{
+  padding: 7% 15%;
+}
+p{
+  color: #8f8f8f;
+}
+
+.dicon{
+  margin:
+text-align: center;
+}
+
+.bu{
+  padding-top:30px;
+}
+
+.fi{
+  position: fixed;
+}
+
+.icon{
+  color: #f64b3c;
+margin-bottom: 6%;
+}
+
+.mob{
+  margin-top: 10%;
+}
+
+/* testimonial */
+
+#testimonials{
+text-align: center;
+background-color: #f64b3c;
+
+
+}
+
+.testm{
+font-family: 'Raleway', sans-serif;
+color: #f9f9f9;
+
+line-height: 1.5;
+}
+.test-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #f64b3c;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.carousel-item{
+  padding: 2% 20% ;
+}
+.i{
+  text-align: center;
+}
+
+.pre-img{
+  width: 15%;
+  margin: 20px 20px 15px;
+}
+
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+
+#cta{
+  text-align: center;
+  background-color: #f64b3c;
+  padding: 7% 15%;
+}
+
+.cta-h{
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.io{
+  margin: 20px 10px;
+  
+}
